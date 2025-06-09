@@ -3,8 +3,8 @@
 A simple and responsive College Website built using HTML5, CSS3, and Bootstrap 5.  
 This project is designed as a front-end template for educational institutes, featuring modern UI components and sections.
 
-✨ Features
 
+✨ Features
 - Top Bar with social media icons and contact information  
 - Responsive Navbar with dropdown menu support  
 - Hero Section with call-to-action button  
@@ -15,16 +15,16 @@ This project is designed as a front-end template for educational institutes, fea
 - Footer with multiple columns, useful links, and newsletter form  
 - Fully Responsive — adapts to mobile, tablet, and desktop screens  
 
-🛠️ Technologies Used
 
+🛠️ Technologies Used
 - HTML5  
 - CSS3  
 - Bootstrap 5  
 - Google Fonts (Poppins)  
 - Font Awesome icons  
 
-🎨 UI Highlights
 
+🎨 UI Highlights
 - Clean, modern, and professional design  
 - Smooth hover effects and transitions  
 - Mobile-first responsive layout  
