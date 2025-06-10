@@ -1,4 +1,4 @@
-🎓 College Website: https://kanakigral.github.io/education-website/
+🎓 College Website: https://kanakigral.github.io/college-website/
 
 A simple and responsive College Website built using HTML5, CSS3, and Bootstrap 5.  
 This project is designed as a front-end template for educational institutes, featuring modern UI components and sections.
